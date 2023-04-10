@@ -268,10 +268,10 @@ const events = {
             first_price: NULL,
             second_price: NULL,
             third_price: NULL,
-            type: "",
-            mode: "",
-            date: "",
-            time: "",
+            type: "Individual",
+            mode: "Offline",
+            date: "20",
+            time: "10:00 AM – 12:30 PM",
             desc: "Play For Fun, Not for Prize\nExperience the Reality in Ultimate gaming\nThe anticipation comes to an end!!!!\nAre you a hardcore gamer looking for a fun and engaging way to connect with other like-minded gamers? Look no further than our upcoming gaming room event! Join with us for non-stop gaming action, socializing, and friendly competition...10+ Games with highly modified gaming equipment's have worth up to 1 million.\nEntry fees\n20/- (for 15 minutes/per game)\n50/- (for 30 minutes/Any games)\nSo mark your calendar, invite your friends, and get ready to level up at our gaming room event.",
             rules: [
                 "Equipment care: Treat gaming equipment with care and report any malfunctions or damage to the volunteers. Do not tamper with or modify the equipment in any way, if any malfunctioning in device happens, it will result you to pay fine of the device amount!!!",
@@ -316,7 +316,7 @@ const events = {
     mech: [
         {
             id: 1,
-            title: "",
+            title: "ITBP WEAPON SHOW",
             first_price: "",
             second_price: "",
             third_price: "",
